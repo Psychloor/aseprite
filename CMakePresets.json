@@ -13,10 +13,10 @@
       "generator": "Ninja",
       "cacheVariables": {
         "CMAKE_BUILD_TYPE": "Release",
-        "DLAF_BACKEND": "skia",
-        "DSKIA_DIR": "C:/deps/skia",
-        "DSKIA_LIBRARY": "C:/deps/skia/out/Release-x64/skia.lib",
-        "DSKIA_LIBRARY_DIR": "C:/deps/skia/out/Release-x64"
+        "LAF_BACKEND": "skia",
+        "SKIA_DIR": "C:/deps/skia",
+        "SKIA_LIBRARY": "C:/deps/skia/out/Release-x64/skia.lib",
+        "SKIA_LIBRARY_DIR": "C:/deps/skia/out/Release-x64"
       }
     }
   ]
